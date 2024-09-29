@@ -81,7 +81,7 @@ ls -dlSr *r */*r */*/*r | tail -3
 echo "5."
 cat carracosta4/* | sort
 echo "6."
-ls -ltr *7 */*7 */*/*7 2> /tmp/error6
+ls -dltr *7 */*7 */*/*7 2> /tmp/error6
 
 # 5. Удаление
 rm darmanitan5
